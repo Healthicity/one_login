@@ -1,0 +1,6 @@
+require 'one_login/api'
+require 'one_login/api/base'
+require 'one_login/api/oauth'
+require 'one_login/api/role'
+require 'one_login/api/user'
+require 'one_login/api/response'

@@ -1,10 +1,10 @@
 GIT
   remote: https://github.com/Healthicity/http_api.git
-  revision: e4af4ed1620f07451f747017b7279215cea27cf2
-  tag: 1.1.0
+  revision: cc2d2d565f07a42ed4c50a1fb0ba778992e8dfb0
+  tag: 1.2.0
   specs:
     http_api (1.0.0)
-      activesupport (>= 6.0.0, < 7)
+      activesupport
       http (~> 3.3)
 
 PATH

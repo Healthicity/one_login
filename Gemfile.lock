@@ -1,16 +1,16 @@
 GIT
   remote: https://github.com/Healthicity/http_api.git
-  revision: 3994a6c6c23f895e7bb66d1ba2576ad520f27021
-  tag: 2.0.0
+  revision: 29a1f5f8dd7dbd7336af988aa4fec84f68fc5ffb
+  tag: 2.0.1
   specs:
-    http_api (1.0.0)
+    http_api (2.0.1)
       activesupport
       http (~> 5)
 
 PATH
   remote: .
   specs:
-    one_login (1.0.0)
+    one_login (2.0.1)
 
 GEM
   remote: https://rubygems.org/

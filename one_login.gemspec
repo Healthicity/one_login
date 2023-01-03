@@ -12,9 +12,8 @@ Gem::Specification.new do |spec|
   spec.files       = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.homepage    = "https://github.com/Healthicity/one_login"
   spec.license     = "MIT"
-  spec.required_ruby_version = '~> 2.7'
   
   spec.add_development_dependency 'webmock', '~> 3'
-  spec.add_development_dependency 'rake', '~> 12'
+  spec.add_development_dependency 'rake', '~> 13'
   spec.add_development_dependency 'test-unit'
 end
